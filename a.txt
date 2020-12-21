@@ -1,0 +1,523 @@
+Skip to Main Content <#main>
+*University of Guelph
+
+* <http://www.uoguelph.ca/>
+
+
+  Office of Registrarial Services
+  <http://www.uoguelph.ca/registrar/>WebAdvisor for Ian M.
+  <https://webadvisor.uoguelph.ca/>
+
+University of Guelph-Humber Logo <http://www.guelphhumber.ca/>
+
+  * Help
+    <http://www.uoguelph.ca/registrar/index.cfm?app=webadvisor&page=help&process=stwests01b>
+
+  * Students Menu
+    <https://webadvisor.uoguelph.ca/WebAdvisor/WebAdvisor?TOKENIDX=7520247186&CONSTITUENCY=WBST&TYPE=M&PID=CORE-WBST>
+
+  * Main Menu
+    <https://webadvisor.uoguelph.ca/WebAdvisor/WebAdvisor?TOKENIDX=7520247186&CONSTITUENCY=WBST&TYPE=M&PID=CORE-WBMAIN>
+
+  * Log Out
+    <https://webadvisor.uoguelph.ca/WebAdvisor/WebAdvisor?TOKENIDX=7520247186&CONSTITUENCY=WBST&type=P&pid=UT-LORQ>
+
+
+Have a question? Ask Gryph!
+
+
+  Unofficial Transcript
+
+University of Guelph Logo
+
+	
+
+1051662 Ian McKechnie
+
+Transcript Information
+	Course/Section and Title	Grade	Credits	CEUs	Repeat	Term
+1	
+
+COOP*2000 01 Work Term II
+
+	
+
+	
+
+	
+
+	
+
+	
+
+F20
+
+2	
+
+COOP*1000 01 Work Term I
+
+	
+
+INP
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+S20
+
+3	
+
+CIS*2750 0106 Software System Dvlmt & Intgrn
+
+	
+
+P
+
+	
+
+0.75
+
+	
+
+	
+
+	
+
+W20
+
+4	
+
+CIS*3110 0205 Operating Systems
+
+	
+
+P
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+W20
+
+5	
+
+CIS*3490 0103 Analysis & Des. of Comp. Algo.
+
+	
+
+078
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+W20
+
+6	
+
+MATH*2130 0207 Numerical Methods
+
+	
+
+087
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+W20
+
+7	
+
+MCS*1000 DE01 Introductory Marketing
+
+	
+
+077
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+W20
+
+8	
+
+CIS*2030 0204 Structure/Applicat - Microcomp
+
+	
+
+067
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+F19
+
+9	
+
+CIS*2430 0104 Object Oriented Programming
+
+	
+
+078
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+F19
+
+10	
+
+CIS*2520 0106 Data Structures
+
+	
+
+075
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+F19
+
+11	
+
+CIS*3250 0101 Software Design III
+
+	
+
+073
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+F19
+
+12	
+
+COOP*1100 EL03 Introduction to Coop Education
+
+	
+
+P
+
+	
+
+0.00
+
+	
+
+	
+
+	
+
+F19
+
+13	
+
+STAT*2040 01 Statistics I
+
+	
+
+056
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+F19
+
+14	
+
+CIS*1910 0108 Discrete Structures in Comp I
+
+	
+
+063
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+W19
+
+15	
+
+CIS*2250 0102 Software Design II
+
+	
+
+068
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+W19
+
+16	
+
+CIS*2500 0106 Intermediate Programming
+
+	
+
+080
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+W19
+
+17	
+
+ECON*1100 03 Introductory Macroeconomics
+
+	
+
+074
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+W19
+
+18	
+
+MATH*1210 0201 Calculus II
+
+	
+
+084
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+W19
+
+19	
+
+CIS*1250 0105 Software Design I
+
+	
+
+087
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+F18
+
+20	
+
+CIS*1500 0325 Introduction to Programming
+
+	
+
+085
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+F18
+
+21	
+
+ECON*1050 02 Introductory Microeconomics
+
+	
+
+077
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+F18
+
+22	
+
+MATH*1160 01 Linear Algebra I
+
+	
+
+092
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+F18
+
+23	
+
+MATH*1200 0101 Calculus I
+
+	
+
+078
+
+	
+
+0.50
+
+	
+
+	
+
+	
+
+F18
+
+------------------------------------------------------------------------
+Total Earned Credits	
+
+10.75
+
+Total Grade Points	
+
+689.50
+
+Cumulative GPA	
+
+76.611
+
+------------------------------------------------------------------------
+
+If you require a student record or information on program requirements
+in an alternate format, please contact ups@uoguelph.ca
+<mailto:ups@uoguelph.ca> .
+
+University of Guelph
+50 Stone Road East
+<http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=106115594900620713079.000436308185e9184c678&ll=43.531407,-80.228584&spn=0.007607,0.014591&z=16&om=1>
+
+Guelph, Ontario, N1G 2W1
+Canada
+519-824-4120
+
+© Office of Registrarial Services
+
