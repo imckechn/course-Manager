@@ -118,7 +118,7 @@ CIS*3490 0103 Analysis & Des. of Comp. Algo.
 
 	
 
-078
+050
 
 	
 
@@ -138,7 +138,7 @@ MATH*2130 0207 Numerical Methods
 
 	
 
-087
+050
 
 	
 
@@ -158,7 +158,7 @@ MCS*1000 DE01 Introductory Marketing
 
 	
 
-077
+050
 
 	
 
@@ -178,7 +178,7 @@ CIS*2030 0204 Structure/Applicat - Microcomp
 
 	
 
-067
+050
 
 	
 
@@ -198,7 +198,7 @@ CIS*2430 0104 Object Oriented Programming
 
 	
 
-078
+050
 
 	
 
@@ -218,7 +218,7 @@ CIS*2520 0106 Data Structures
 
 	
 
-075
+050
 
 	
 
@@ -238,7 +238,7 @@ CIS*3250 0101 Software Design III
 
 	
 
-073
+050
 
 	
 
@@ -278,7 +278,7 @@ STAT*2040 01 Statistics I
 
 	
 
-056
+050
 
 	
 
@@ -298,7 +298,7 @@ CIS*1910 0108 Discrete Structures in Comp I
 
 	
 
-063
+050
 
 	
 
@@ -318,7 +318,7 @@ CIS*2250 0102 Software Design II
 
 	
 
-068
+050
 
 	
 
@@ -338,7 +338,7 @@ CIS*2500 0106 Intermediate Programming
 
 	
 
-080
+050
 
 	
 
@@ -358,7 +358,7 @@ ECON*1100 03 Introductory Macroeconomics
 
 	
 
-074
+050
 
 	
 
@@ -378,7 +378,7 @@ MATH*1210 0201 Calculus II
 
 	
 
-084
+050
 
 	
 
@@ -398,7 +398,7 @@ CIS*1250 0105 Software Design I
 
 	
 
-087
+050
 
 	
 
@@ -418,7 +418,7 @@ CIS*1500 0325 Introduction to Programming
 
 	
 
-085
+050
 
 	
 
@@ -438,7 +438,7 @@ ECON*1050 02 Introductory Microeconomics
 
 	
 
-077
+050
 
 	
 
@@ -458,7 +458,7 @@ MATH*1160 01 Linear Algebra I
 
 	
 
-092
+050
 
 	
 
@@ -478,7 +478,7 @@ MATH*1200 0101 Calculus I
 
 	
 
-078
+050
 
 	
 
@@ -503,7 +503,7 @@ Total Grade Points
 
 Cumulative GPA	
 
-76.611
+50.000
 
 ------------------------------------------------------------------------
 
